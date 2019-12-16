@@ -1,6 +1,6 @@
 # RecipeHub
 
-Small app to search for something u would like to cook, check out requied ingredients depending on the amount of serving u would like to make and the link to the actual proccess of cooking the dish you are interested in.
+Small app to search for something u would like to cook, check out required ingredients depending on the amount of serving u would like to make and the link to the actual proccess of cooking the dish you are interested in.
 
 ## Getting Started
 
